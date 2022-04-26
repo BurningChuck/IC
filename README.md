@@ -2,6 +2,7 @@
 
 # Lab 1  
 Фатичный Диалог
+https://github.com/BurningChuck/F_Dialog
 
 # lab 2
 Пролог  
