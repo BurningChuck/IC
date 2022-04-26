@@ -1,0 +1,10 @@
+F:\IC-main\Lab3\ConsoleApp4\bin\Debug\mazeGenerator_dfs.exe.config
+F:\IC-main\Lab3\ConsoleApp4\bin\Debug\mazeGenerator_dfs.exe
+F:\IC-main\Lab3\ConsoleApp4\bin\Debug\mazeGenerator_dfs.pdb
+F:\IC-main\Lab3\ConsoleApp4\obj\Debug\mazeGenerator-dfs.csproj.AssemblyReference.cache
+F:\IC-main\Lab3\ConsoleApp4\obj\Debug\ConsoleApp4.Form1.resources
+F:\IC-main\Lab3\ConsoleApp4\obj\Debug\mazeGenerator_dfs.Properties.Resources.resources
+F:\IC-main\Lab3\ConsoleApp4\obj\Debug\mazeGenerator-dfs.csproj.GenerateResource.cache
+F:\IC-main\Lab3\ConsoleApp4\obj\Debug\mazeGenerator-dfs.csproj.CoreCompileInputs.cache
+F:\IC-main\Lab3\ConsoleApp4\obj\Debug\mazeGenerator_dfs.exe
+F:\IC-main\Lab3\ConsoleApp4\obj\Debug\mazeGenerator_dfs.pdb
